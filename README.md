@@ -1,6 +1,7 @@
-> **仓库身份 / Repository identity（2026-10-02）**：这是 [Arcadia-1/virtuoso-bridge-lite](https://github.com/Arcadia-1/virtuoso-bridge-lite) 的个人工具使用与实验 fork。上游作者、版权和许可按原文件保留；下文“我们 / 本人 / This work”属于上游文档语境，不表示本账号创作了原书或原工具。徽章若指向上游，其状态也仅代表上游。
->
-> **验证范围**：本次核对来源、目录与成果表述；未独立重跑上游全部例程，未对教材全部推导作正确性认证。本账号增量以 [提交记录](https://github.com/defineiocc02/virtuoso-bridge-lite/commits/main) 与上游差异为准。使用方法继续见原文，返回 [项目导航](https://github.com/defineiocc02)。
+> **这是 fork** · 上游：[Arcadia-1/virtuoso-bridge-lite](https://github.com/Arcadia-1/virtuoso-bridge-lite)
+> 本地增量：无代码改动，仅加入来源声明。
+> 同步状态：冻结在 v0.7.0，落后上游 135 个提交（截至 2026-10-19），**不会合并上游**。
+> 使用说明：本仓库是被下游工程按 v0.7.0 接口依赖的镜像；升级请在安装侧验证，不要指望此 fork 跟随上游。
 
 ---
 
